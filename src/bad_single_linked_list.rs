@@ -86,7 +86,6 @@ impl Drop for List {
 // run with `cargo test`
 #[cfg(test)]
 mod test {
-    // Use the
     use super::List;
 
     #[test]
